@@ -1,0 +1,22 @@
+{
+  "name": "express-fazt-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xus84/express-fazt-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xus84/express-fazt-tutorial/issues"
+  },
+  "homepage": "https://github.com/xus84/express-fazt-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
